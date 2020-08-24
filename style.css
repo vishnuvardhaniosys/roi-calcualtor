@@ -16,6 +16,10 @@ body{
 
 }
 
+.img-cntnr img{
+    width: 100%;
+}
+
 .main-heading{
 	font-size: 46px;
     line-height: 1.2;
