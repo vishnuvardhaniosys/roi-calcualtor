@@ -18,6 +18,7 @@ body{
 
 .img-cntnr img{
     width: 100%;
+    position: absolute;
 }
 
 .main-heading{
